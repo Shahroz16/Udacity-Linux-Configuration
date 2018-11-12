@@ -64,5 +64,5 @@ http://35.154.94.175.xip.io/
 * `Uwisgi`
 * `PostgreSQL`
 
-# Note
+## Note
 'Authentication' is not functional right now, but since it's not a requirement for this project I am going to delay it a bit.
